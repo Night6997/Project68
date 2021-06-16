@@ -22,9 +22,16 @@ width:100%;
 #Gallery{
 height:100%;
 width:100%;
-padding:400px;
+padding-top:400px;
 }
 .galleryImages{
 height:400px;
-width:450px;
+width:500px;
+}
+#home iframe{
+padding:0px;
+}
+.campuslifeimg{
+height:300px;
+width:650px;
 }

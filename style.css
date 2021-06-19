@@ -35,3 +35,18 @@ padding:0px;
 height:300px;
 width:650px;
 }
+.achievements{
+font-size:20px;
+padding:6px 22px;
+border-radius:15px;
+margin-bottom:20px;
+width:100%;
+display:inline-block;
+}
+.achievements i{
+float:right;
+color:white;
+}
+.achievements span{
+width:230px;
+}

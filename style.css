@@ -50,3 +50,15 @@ color:white;
 .achievements span{
 width:230px;
 }
+.whatsnew1{
+margin-top:15px;
+}
+.whatsnew1 h4{
+border-bottom:1px solid white;
+padding:8px;
+}
+.whatsnew1 img{
+border-radius:25px;
+}
+.whatsnew1 p{
+margin-top:10px;

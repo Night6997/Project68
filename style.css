@@ -1,64 +1,113 @@
-body{
-text-align:center;
-background-color:black;
-color:aqua;
+body {
+    text-align: center;
+    background-color: black;
+    color: aqua;
 }
-#home{
-width:100%;
-height:100%;
+
+#home {
+    width: 100%;
+    height: 100%;
 }
-.announcement{
-background-color:black;
+
+.announcement {
+    background-color: black;
 }
-#AboutAECS h3{
-font-size:20;
-font-family: 'Architects Daughter', cursive;
+
+#AboutAECS h3 {
+    font-size: 20;
+    font-family: 'Architects Daughter', cursive;
 }
-#AboutAECS{
-padding:400px;
-height:100%;
-width:100%;
+
+#AboutAECS {
+    padding: 400px;
+    height: 100%;
+    width: 100%;
 }
-#Gallery{
-height:100%;
-width:100%;
-padding-top:400px;
+
+#Gallery {
+    height: 100%;
+    width: 100%;
+    padding-top: 400px;
 }
-.galleryImages{
-height:400px;
-width:500px;
+
+.galleryImages {
+    height: 400px;
+    width: 500px;
 }
-#home iframe{
-padding:0px;
+
+#home iframe {
+    padding: 0px;
 }
-.campuslifeimg{
-height:300px;
-width:650px;
+
+.campuslifeimg {
+    height: 300px;
+    width: 650px;
 }
-.achievements{
-font-size:20px;
-padding:6px 22px;
-border-radius:15px;
-margin-bottom:20px;
-width:100%;
+
+.achievements {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 15px;
+    margin-bottom: 20px;
+    width: 100%;
+    display: inline-block;
+}
+
+.achievements i {
+    float: right;
+    color: white;
+}
+
+.achievements span {
+    width: 230px;
+}
+
+.whatsnew1 {
+    margin-top: 15px;
+}
+
+.whatsnew1 h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.whatsnew1 img {
+    border-radius: 25px;
+}
+
+.whatsnew1 p {
+    margin-top: 10px;
+}
+
+.alumniClass {
+    cursor: pointer;
+}
+
+.alumniClass hr {
+    margin-bottom: 10px;
+}
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.img_modal {
+    display: inline-block;
+}
+
+.p_modal {
+    margin-top: 10px;
+}
+
+.modal-body {
+    text-align: center;
+}
+
+.header-entrepreneur {
+    line-height: 2;
+}
+.alumniClass img{
 display:inline-block;
+height:270px;
+width:220px;
 }
-.achievements i{
-float:right;
-color:white;
-}
-.achievements span{
-width:230px;
-}
-.whatsnew1{
-margin-top:15px;
-}
-.whatsnew1 h4{
-border-bottom:1px solid white;
-padding:8px;
-}
-.whatsnew1 img{
-border-radius:25px;
-}
-.whatsnew1 p{
-margin-top:10px;
